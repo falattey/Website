@@ -1,0 +1,46 @@
+body{background-color: white;}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+    margin: 10px;
+    padding: 5px;
+}
+
+.logo{
+    background-color: white;
+    height: 100px;
+    width: 300px;
+  
+}
+
+.menu{
+    background-color: green;
+    flex-grow: 1;
+}
+
+.banner{
+    background-color: grey;
+  display:flex;
+    flex-direction:row;
+    margin: 10px;
+    padding: 30px;
+}
+
+
+
+.welcome{
+    background-color: white;
+    height:350px;
+    width: 300px;
+}
+
+.ad{flex-grow: 1;
+    background-color: rgb(158, 29, 29);
+}
