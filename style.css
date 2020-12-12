@@ -44,3 +44,23 @@ body{background-color: white;}
 .ad{flex-grow: 1;
     background-color: rgb(158, 29, 29);
 }
+
+.service{
+    background-color: grey;
+    margin: 10px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    margin: 10px;
+}
+
+.footer{
+    background-color: grey;
+    margin: 10px;
+}
